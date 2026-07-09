@@ -24,7 +24,9 @@ This is a desktop-based Expense Tracker developed using Python, Tkinter, and MyS
    ## Screenshots
 
 ### Home Page
-![Home](home.png)
+![Home Page](home.png.jpeg)
 
 ### Expense Records
-![Expenses](expenses.png)
+![Expense Records](expenses.png.jpeg)
+
+
