@@ -21,3 +21,10 @@ This is a desktop-based Expense Tracker developed using Python, Tkinter, and MyS
 2. Import the SQL file into MySQL.
 3. Update the database credentials in the Python file.
 4. Run the Python file.
+   ## Screenshots
+
+### Home Page
+![Home](home.png)
+
+### Expense Records
+![Expenses](expenses.png)
